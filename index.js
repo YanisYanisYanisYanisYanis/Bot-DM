@@ -1,4 +1,4 @@
-// Charge tout ce qui est nécessaire au fonctionnement du bot 
+// Charge tout ce qui est nécessaire au fonctionnement du bot
 const Discord = require('discord.js');
 const config = require('./config.json');
 const client = new Discord.Client();
